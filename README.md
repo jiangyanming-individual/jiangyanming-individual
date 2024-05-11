@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 我是灰太狼家的小鸭子
+
+- :cupid: 不知名在校学生
+- 🏡 作品：[鸭子智能BI](https://github.com/jiangyanming-individual/SmartBI-backend)、[快乐伙伴匹配系统 ]([jiangyanming-individual/yupao-backend: 伙伴匹配系统后端 (github.com)](https://github.com/jiangyanming-individual/yupao-backend))、[PlantNh-Kcr]([jiangyanming-individual/PlantNh-Kcr (github.com)](https://github.com/jiangyanming-individual/PlantNh-Kcr))
+- 💬 微信：WoSiAiKuGui
+- 📩 邮箱：[1635156042@qq.com](mailto:1635156042@qq.com)
+- 📝 个人博客：[灰太狼家的小鸭子](https://blog.csdn.net/JEREMY_GYJ)
+
