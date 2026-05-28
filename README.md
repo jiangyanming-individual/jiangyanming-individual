@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 我是灰太狼家的小鸭子
 
-- :cupid: 不知名在校学生
+- :cupid: 后端开发工程师一枚
 - 🏡 作品：[在线判题系统 ](https://github.com/jiangyanming-individual/duckoj-backend-microervice)、[DuckAPI开放平台 ](https://github.com/jiangyanming-individual/yaziApi-backend)、[鸭子智能BI](https://github.com/jiangyanming-individual/SmartBI-backend)、[快乐伙伴匹配系统 ](https://github.com/jiangyanming-individual/yupao-backend)、[PlantNh-Kcr](https://github.com/jiangyanming-individual/PlantNh-Kcr)
 - 💬 微信：WoSiAiKuGui
 - 📩 邮箱：[1635156042@qq.com](mailto:1635156042@qq.com)
